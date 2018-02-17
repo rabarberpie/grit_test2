@@ -10,13 +10,13 @@
     
     "repositories": [
 	{
-	    "repository": "rabarberpie/gitre_test",
-	    "directory": "local/gitre",
+	    "repository": "rabarberpie/grit_test",
+	    "directory": "local/grit_test",
 	    "groups": ["g1", "g2", "g3"]
 	},
 	{
-	    "repository": "rabarberpie/gitre_test2",
-	    "directory": "local/gitre2",
+	    "repository": "rabarberpie/grit_test2",
+	    "directory": "local/grit_test2",
 	    "groups": ["g3"]
 	}
     ]
