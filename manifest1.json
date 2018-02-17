@@ -1,0 +1,23 @@
+{
+    "profiles": [
+	{
+	    "profile": "github_profile",
+	    "remote-name": "github",
+	    "remote-url": "https://github.com"
+	}
+    ],
+
+    
+    "repositories": [
+	{
+	    "repository": "rabarberpie/gitre_test",
+	    "directory": "local/gitre",
+	    "groups": ["g1", "g2", "g3"]
+	},
+	{
+	    "repository": "rabarberpie/gitre_test2",
+	    "directory": "local/gitre2",
+	    "groups": ["g3"]
+	}
+    ]
+}
